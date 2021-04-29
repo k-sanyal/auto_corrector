@@ -1,4 +1,3 @@
-import nltk
 from collections import Counter
 import re
 from tkinter import *
