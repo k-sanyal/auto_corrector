@@ -1,7 +1,8 @@
 from collections import Counter
 import re
-from tkinter import *
 from Correct_func import *
+
+# мы поместили некоторые функции в отдельный файл и импортировали их оттуда, чтобы сократить длинну основного кода
 
 
 with open("bidata.txt", encoding="utf-8") as f:
